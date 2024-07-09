@@ -1,0 +1,15 @@
+section a{
+    color: whitesmoke;
+    padding: 50px;
+}
+section{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 20px;
+}
+body{
+    margin: 0px;
+}
+section a:hover{
+    color: yellowgreen;
+}
